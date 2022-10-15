@@ -1,6 +1,3 @@
-
-
-// function loadEvents(){
   function randomNumbers() {
     var randomNumber1 = Math.floor(Math.random() * 6) + 1; //1-6
   
@@ -28,8 +25,4 @@
     else {
       document.querySelector("h1").innerHTML = "Draw!";
     }
-  
-    //how to roll the dices on click?
-    //How to set default page?
   }
-// }
